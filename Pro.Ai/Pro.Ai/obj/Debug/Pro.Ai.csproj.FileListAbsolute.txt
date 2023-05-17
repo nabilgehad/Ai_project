@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\obj\Debug\Pro.Ai.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\obj\Debug\Pro.Ai.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\obj\Debug\Pro.Ai.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\obj\Debug\Pro.Ai.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\obj\Debug\Pro.Ai.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\bin\Debug\Pro.Ai.exe.config
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\bin\Debug\Pro.Ai.exe
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\bin\Debug\Pro.Ai.pdb
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\bin\Debug\Guna.UI2.dll
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\obj\Debug\Pro.Ai.Frm_OnePlayer.resources
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\obj\Debug\Pro.Ai.Frm_TwoPlayer.resources
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\obj\Debug\Pro.Ai.csproj.CopyComplete
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\obj\Debug\Pro.Ai.exe
+C:\Users\ahmed\source\repos\Pro.Ai\Pro.Ai\obj\Debug\Pro.Ai.pdb
